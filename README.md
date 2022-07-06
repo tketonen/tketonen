@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 - Learning more of coding!
 
 ### 📮 How to Contact Me
-- You can contact me via emali (teemu.ketonen@hotmail.com)
+
 [<img src="https://raw.githubusercontent.com/tketonen/tketonen/master/linkedin.png" height="40em" align="center"
 alt="Follow on LinkedIn" title="Follow on LinkedIn"/>](https://linkedin.com/in/teemu-ketonen-9986b2168)
+
+You can also contact me via email (teemu.ketonen@hotmail.com).
