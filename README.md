@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 📖 About Me
+- Independently studying Unity.
+- Coding mostly with C and C# atm.
+- Video Game Enthusiast!
+
+### ⬆️ What I'm Up To
+- Trying to land a job in game development/ programming.
+- Doing some game projects of my own.
+- Learning more of coding!
+
+### 📮 How to Contact Me
+- You can contact me via emali (teemu.ketonen@hotmail.com)
+
