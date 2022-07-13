@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/tketonen/tketonen/master/tketonen_gif.gif" width="350" align="center" />
 
 <!--
 **tketonen/tketonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### WELCOME!
+
 ### 📖 About Me
 - Independently studying Unity.
 - Coding mostly with C and C# atm.
