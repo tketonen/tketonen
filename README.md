@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Video Game Enthusiast!
 
 ### ⬆️ What I'm Up To
-- Trying to land a job in game development/ programming.
+- Trying to land a job in software or game development/ programming.
 - Doing some game projects of my own.
 - Learning more of coding!
 
